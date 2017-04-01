@@ -8,3 +8,6 @@
 ### 2、javascript
 * [30分钟掌握ES6/ES2015核心内容](http://www.jianshu.com/p/ebfeb687eb70)
 * [ECMAScript 6 入门](http://es6.ruanyifeng.com/#README)
+### 3、webpack
+* [入门Webpack，看这篇就够了](http://www.jianshu.com/p/42e11515c10f)
+* [Webpack 中文指南](http://webpackdoc.com/index.html)
